@@ -473,3 +473,53 @@ ol li .send {
 a {
 	outline:none;
 }
+.avatar {
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.profile {
+  vertical-align: middle;
+  width: 35px;
+  height: 35px;
+  border-radius: 30%;
+}
+
+.star  {
+  border-bottom: 4px solid Green;
+}
+.fa {
+  padding: 10px;
+  font-size: 35px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #f2577b;
+  color: white;
+}
+
+
